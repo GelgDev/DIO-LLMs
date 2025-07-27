@@ -2,4 +2,4 @@
 CursoLLM
 
 ## Transfer Learning
-Utilizarei imagens dos personagens Homer e Bart Simpsons no projeto.
+Utilizei imagens dos personagens Homer e Bart Simpsons no projeto, exibindo a imagem e o resultado do treinamento no modulo final.
